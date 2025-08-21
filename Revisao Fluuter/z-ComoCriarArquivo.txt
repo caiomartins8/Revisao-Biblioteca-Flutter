@@ -8,4 +8,8 @@ code .   // ABRE O VS CODE NA PASTA
 
 flutter run -d chrome // RODA O APP NO GOOGLE (DEMORA UM POUCO)
 
+CASO NAO RODE O PROJETO 
 
+flutter clean 
+flutter pub get
+flutter run
