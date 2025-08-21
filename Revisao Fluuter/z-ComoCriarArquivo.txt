@@ -1,0 +1,11 @@
+ENTRE NO VS CODE SEM NENHUMA PASTA 
+
+ENTRE NO TERMINAL 
+
+flutter create nome_do_projeto  //CRIA A PASTA
+cd create nome_do_projeto  // ENTRA NA PASTA NO TERMINAL
+code .   // ABRE O VS CODE NA PASTA
+
+flutter run -d chrome // RODA O APP NO GOOGLE (DEMORA UM POUCO)
+
+
